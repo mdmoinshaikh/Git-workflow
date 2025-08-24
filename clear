@@ -1,0 +1,29 @@
+[33mcommit 6f38dcb99491ef04e5f2e9636854ae8af44c55c1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: mdmoinshaikh <mdmoishaikh2143@gmail.com>
+Date:   Sun Aug 24 17:36:11 2025 +0530
+
+    second
+
+[33mcommit 8228777084bfa21f9afc4d2c3383a3fb4e52ebf1[m
+Author: mdmoinshaikh <mdmoishaikh2143@gmail.com>
+Date:   Sun Aug 24 17:31:59 2025 +0530
+
+    first
+
+[33mcommit e378b83d672d3c9abdcefc7fc4c179f0dff0932e[m
+Author: mdmoinshaikh <mdmoishaikh2143@gmail.com>
+Date:   Sun Aug 10 13:06:02 2025 +0530
+
+    Git restore
+
+[33mcommit 0a6722c6b452f971dc763e80142e86f6c83d7c5d[m
+Author: mdmoinshaikh <mdmoishaikh2143@gmail.com>
+Date:   Sun Aug 10 12:57:38 2025 +0530
+
+    Git ignore file done
+
+[33mcommit b77e9fc687a4757f728073acd51890b2860c0ccf[m
+Author: mdmoinshaikh <mdmoishaikh2143@gmail.com>
+Date:   Sun Aug 10 12:40:32 2025 +0530
+
+    First file of Git ignore is created
