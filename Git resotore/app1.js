@@ -1,0 +1,1 @@
+console.log("hello the javascript is working fine with Git &  Git Hub")
